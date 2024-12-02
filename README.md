@@ -17,3 +17,4 @@ RapidLib is a lightweight library for interactive machine learning. It currently
 ## More at: [https://mzed.github.io/RapidLib/](https://mzed.github.io/RapidLib/)
 
 Testing
+and more 
